@@ -1,0 +1,3 @@
+EXE: Emmagatzema l'arxiu per executar el projecte.
+|
+|___run.bat: És l'arxiu que s'encarrega d'executar el projecte.

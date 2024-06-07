@@ -1,0 +1,15 @@
+Directori de codis font.
+|
+|___ CapaDomini: funcions, algoritmes, càlculs, classes del model.
+|
+|___ CapaPersistencia: bases de dades, fitxers, etc.
+|
+|___ CapaPresentacio: views, driver, pantalla, tot allò amb el que interacciona l'usuari.
+|
+|___ Makefile: arxiu per compilar i executar el programa.
+
+
+instruccions per compilar i executar el programa:
+
+    $ make all
+    $ make run

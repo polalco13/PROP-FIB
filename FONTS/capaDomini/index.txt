@@ -1,0 +1,21 @@
+capaDomini: Emmagatzema els codis font del projecte de la capa de domini.
+|
+|___controladors: Emmagatzema els codis font dels controladors.
+|
+|___drivers: Emmagatzema el driver.
+|
+|___estadistiques: Emmagatzema els codis font de les estadístiques.
+|
+|___excepcions: Emmagatzema els codis font de les excepcions.
+|
+|___jocs: Emmagatzema els codis font dels jocs.
+|
+|___kenkens: Emmagatzema els codis font dels kenkens.
+|
+|___operacions: Emmagatzema els codis font de les operacions.
+|
+|___rankings: Emmagatzema els codis font del ranking.
+|
+|___usuaris: Emmagatzema els codis font de l'usuari.
+|
+|___utils: Emmagatzema els codis font de les utilitats.

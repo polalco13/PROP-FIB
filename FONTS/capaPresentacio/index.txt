@@ -1,0 +1,7 @@
+Directori de la capa de presentacio.
+|
+|___ views: son las vistes/pantalles de l'aplicació. Cada vista té un .java i un .form.
+|
+|___ CtrlPresentacio: controlador de la capa de Presentació.
+|
+|___ Main: el main de l'aplicació. L'únic que fa és crear el CtrlPresentacio.

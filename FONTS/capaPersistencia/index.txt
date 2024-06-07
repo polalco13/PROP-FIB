@@ -1,0 +1,11 @@
+capaPersistencia: Emmagatzema els codis font del projecte de la capa de persistència
+|
+|___DatabaseStats: Gestiona la BD de les estadístiques
+|
+|___DatabaseUsers: Gestiona la BD dels usuaris
+|
+|___DatabaseKenkens: Gestiona la BD dels kenkens
+|
+|___DatabaseJocs: Gestiona la BD dels jocs
+|
+|___CtrlPersistencia: Controlador de la capa de persistència
