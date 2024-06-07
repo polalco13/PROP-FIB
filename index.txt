@@ -1,0 +1,7 @@
+DOCS: Emmagatzema tots els arxius referents a la documentació del projecte i els jocs de prova
+|
+|___Jocs d'assaig: document on es mostren (explicats i amb captures de pantalla) els diferents jocs de prova realitzats
+|
+|___Manual d'usuari: document on s'explica com utilitzar l'aplicació (objectiu: usuari final)
+|
+|___html: Emmagatzema tots els arxius necesaris per visualitzar la documentació en format html de doxygen.
