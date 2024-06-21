@@ -1,3 +1,3 @@
 # PROP-FIB
 
-Nota final del Projecte: 
+Nota final del Projecte: 7.55
